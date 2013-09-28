@@ -7,7 +7,7 @@ accounts = {
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-'email': 'pass',
+'email\adam.caron29@gmail.com': 'pass\24sevengaming',
 'email2': 'pass2',
 
 
@@ -15,7 +15,7 @@ accounts = {
 
 
 // how many characters are displayed in each row (within one account)
-rowlength = 7
+rowlength = 6
 
 // change to 1 to switch to testing
 testing = 0
